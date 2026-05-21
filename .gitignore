@@ -1,0 +1,9 @@
+OCT2017/
+datasets1/
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+node_modules/
+frontend/build/

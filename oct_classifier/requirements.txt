@@ -1,0 +1,10 @@
+torch>=1.10
+torchvision
+monai>=1.0
+scikit-learn
+opencv-python
+opencv-contrib-python
+tqdm
+matplotlib
+numpy
+pandas
